@@ -1,0 +1,12 @@
+name Dick
+pack unit
+{
+int hp;
+int att;
+int speed;
+}
+pack player
+{
+unit data;
+string name;
+}
